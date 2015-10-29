@@ -8,10 +8,12 @@ body {
 {
   height: 920px;
   width: 500px;
+  left: 0px;
   background-color: #99CCFF;
   border: solid;
   border-width: 2px;
   position: absolute;
+
 }
 #header
 {
