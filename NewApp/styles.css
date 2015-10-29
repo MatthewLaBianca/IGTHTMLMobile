@@ -1,0 +1,124 @@
+body {
+                margin: 0px;
+                padding: 0px;
+            }
+			
+
+#mainBG
+{
+  height: 920px;
+  width: 500px;
+  background-color: #99CCFF;
+  border: solid;
+  border-width: 2px;
+  position: absolute;
+}
+#header
+{
+  height: 100px;
+  width: 500px;
+  background-color: white;
+  border-bottom: solid;
+  border-width: 2px;
+  position: absolute;
+}
+#controls
+{
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}
+#headerLogo
+{
+	height: 50px;
+	width: 100px;
+	top: 25px;
+	left: 200px;
+	position: absolute;
+}
+#headerBttnImg
+{
+	height: 80px;
+	width: 80px;
+	top: 10px;
+	left: 10px;
+	position: absolute;
+}
+#headerBttn
+{
+	height: 80px;
+	width: 80px;
+	top: 10px;
+	left: 10px;
+	position: absolute;
+	background: transparent;
+}
+#colorPopImage
+{
+	width:480px;
+	height:150px;
+	left: 10px;
+	top: 110px;
+	position: absolute;
+}
+#colorPopBtn
+{
+	width:480px;
+	height:150px;
+	left: 10px;
+	top: 110px;
+	position: absolute;
+	background: transparent;
+}
+#PPImage
+{
+	width:480px;
+	height:150px;
+	left: 10px;
+	top: 270px;
+	position: absolute;
+}
+#PPBtn
+{
+	width:480px;
+	height:150px;
+	left: 10px;
+	top: 270px;
+	position: absolute;
+	background: transparent;
+}
+#MCImage
+{
+	width:480px;
+	height:150px;
+	left: 10px;
+	top: 430px;
+	position: absolute;
+}
+#MCBtn
+{
+	width:480px;
+	height:150px;
+	left: 10px;
+	top: 430px;
+	position: absolute;
+	background: transparent;
+}
+#footer
+{
+	height: 25px;
+  width: 500px;
+  top: 894px;
+  background-color: white;
+  border-top: solid;
+  border-width: 2px;
+  position: absolute;
+}
+#footerTxt
+{
+	bottom:-13px;
+	left: 120px;
+	font-family: arial;
+	position: absolute;
+}
