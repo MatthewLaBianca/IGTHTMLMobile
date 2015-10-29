@@ -15,6 +15,7 @@ body {
   position: absolute;
 
 }
+
 #header
 {
   height: 100px;
@@ -124,3 +125,121 @@ body {
 	font-family: arial;
 	position: absolute;
 }
+/*options stuff*/
+#optionsBG
+{
+  height: 920px;
+  width: 500px;
+  left: 0px;
+  background-color: #707070;
+  border: solid;
+  border-width: 2px;
+  position: absolute;
+
+}
+
+
+#shareBtn
+{
+	height: 75px;
+	width: 500px;
+	top: 110px;
+	background-color: #242424;
+	position: absolute;
+}
+
+#realShareBtn
+{
+	height: 75px;
+	width: 500px;
+/* 	background: transparent;
+	border: none; */
+	position: absolute;
+}
+#howToBtn
+{
+	height: 75px;
+	width: 500px;
+	top: 200px;
+	background-color: #242424;
+	position: absolute;
+}
+#realHowToBtn
+{
+	height: 75px;
+	width: 500px;
+/* 	background: transparent;
+	border: none; */
+	position: absolute;
+}
+#locationsBtn
+{
+	height: 75px;
+	width: 500px;
+	top: 290px;
+	background-color: #242424;
+	position: absolute;
+}
+#realLocationsBtn
+{
+	height: 75px;
+	width: 500px;
+/* 	background: transparent;
+	border: none; */
+	position: absolute;
+}
+#settingsBtn
+{
+	height: 75px;
+	width: 500px;
+	top: 380px;
+	background-color: #242424;
+	position: absolute;
+}
+#realSettingsBtn
+{
+	height: 75px;
+	width: 500px;
+/* 	background: transparent;
+	border: none; */
+	position: absolute;
+}
+#contactBtn
+{
+	height: 75px;
+	width: 500px;
+	top: 470px;
+	background-color: #242424;
+	position: absolute;
+}
+
+#realContactBtn
+{
+	height: 75px;
+	width: 500px;
+/* 	background: transparent;
+	border: none; */
+	position: absolute;
+}
+#helpBtn
+{
+	height: 75px;
+	width: 500px;
+	top: 560px;
+	background-color: #242424;
+	position: absolute;
+}
+#realHelpBtn
+{
+	height: 75px;
+	width: 500px;
+/* 	background: transparent;
+	border: none; */
+	position: absolute;
+}
+#buttons
+{
+	top: 30px;
+	position: absolute;
+}
+
