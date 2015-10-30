@@ -34,9 +34,9 @@ body {
 }
 #headerLogo
 {
-	height: 50px;
+	height: 40px;
 	width: 100px;
-	top: 25px;
+	top: 28px;
 	left: 200px;
 	position: absolute;
 }
@@ -54,6 +54,7 @@ body {
 	width: 80px;
 	top: 10px;
 	left: 10px;
+	border:none;
 	position: absolute;
 	background: transparent;
 }
